@@ -222,28 +222,6 @@ pip install tensorflow keras
 
 ---
 
-## 📞 **SUPPORT:**
-
-**🐛 Found a Bug?**
-- Check the troubleshooting section above
-- Verify your data format matches requirements
-- Ensure all dependencies are installed correctly
-
-**💡 Need Help?**
-- Review the model information in the expandable section
-- Start with core models before adding advanced ones
-- Use sample data to test functionality
-
-**🚀 Want New Features?**
-- The codebase is modular and extensible
-- Add new models in `time_series_models.py`
-- Customize visualizations in `visualization.py`
-
----
-
-## 📄 **LICENSE:**
-
-MIT License - See LICENSE file for details.
 
 ---
 
